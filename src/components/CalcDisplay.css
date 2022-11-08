@@ -1,0 +1,30 @@
+#display-container {
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    text-align: right;
+    width: 400px;
+    background-color: #454647;
+    border-top-left-radius: 15px 15px;
+    border-top-right-radius: 15px 15px;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    min-height: 112px;
+}
+
+#history {
+    font-size: 24px;
+    padding-right: 10px;
+    padding-top: 6px;
+    color: white;
+    word-wrap: break-word;
+}
+
+#last-input {
+    font-size: 60px;
+    padding: 5px;
+    padding-right: 10px;
+    color: white;
+    min-height: 69px;
+    word-wrap: break-word;
+}

@@ -1,0 +1,14 @@
+#zero-button {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    border-bottom-left-radius: 15px 15px;
+    border: 1px solid black;
+    margin-right: -1px;
+    margin-top: -1px;
+    background-color: #737474;
+    color: white;
+}
+
+#zero-button:hover {
+    filter: brightness(110%);
+}

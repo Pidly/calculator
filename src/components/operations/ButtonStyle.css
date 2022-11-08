@@ -1,0 +1,8 @@
+.button-style {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.button-style:hover {
+    filter: brightness(110%);
+}
